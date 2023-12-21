@@ -11,3 +11,7 @@ Here are the Images for the same:-
 ![image](https://github.com/shreyamaheshwari1/Braille_translator/assets/114720478/31cc2807-a5b1-4255-95b0-bb59522e27f8)
 ![image](https://github.com/shreyamaheshwari1/Braille_translator/assets/114720478/8dcfd30a-2929-4801-9675-48c861e5e52a)
 
+Contributors - 
+Shreya Maheshwari: https://github.com/Technorider/ 
+Himanshu Galav: https://github.com/himanshugalav1/
+
